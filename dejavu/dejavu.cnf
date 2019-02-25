@@ -1,0 +1,9 @@
+{
+    "database": {
+        "host": "93.152.136.117",
+        "user": "dejavu",
+        "port": 3306,
+        "passwd": "tvsnax",
+        "db": "dejavu"
+    }
+}

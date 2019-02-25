@@ -1,0 +1,10 @@
+*.pyc
+programs\a.html
+pydub
+tmp
+a.html
+mp3
+mp3toLookUp
+recognition\a.html
+mp3fingerprinting
+mp3recognise
